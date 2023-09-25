@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm dwayz</h1>
+<img align="right" alt ="Coding" width"400" src="https://image.noelshack.com/fichiers/2023/39/1/1695660318-presentation-dkg-orange.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dwqyz&label=Profile%20views&color=0e75b6&style=flat" alt="dwqyz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dwqyz" alt="dwqyz" /></a> </p>
